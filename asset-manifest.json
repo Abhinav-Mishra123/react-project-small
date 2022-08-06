@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3cd929e5.css",
+    "main.js": "/static/js/main.2213d4a8.js",
+    "static/media/overweight.png": "/static/media/overweight.1be7c1cdf29f1a71586e.png",
+    "static/media/underweight.png": "/static/media/underweight.e33e0bafba26c4bdd5c3.png",
+    "static/media/oops.png": "/static/media/oops.5ef3f2f4e93981b9115e.png",
+    "static/media/healthy.png": "/static/media/healthy.75672226cf4d5ff732c8.png",
+    "index.html": "/index.html",
+    "main.3cd929e5.css.map": "/static/css/main.3cd929e5.css.map",
+    "main.2213d4a8.js.map": "/static/js/main.2213d4a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cd929e5.css",
+    "static/js/main.2213d4a8.js"
+  ]
+}
